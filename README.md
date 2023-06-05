@@ -5,7 +5,7 @@
 - ESP32
 
 ## Model Panel LED
-- P10 RGB
+- P10 RGB "https://tokopedia.link/mrBXKrE6mAb"
 
 ### to do
 - if you use board esp32, use rtos for better
