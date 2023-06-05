@@ -7,6 +7,12 @@
 ## Model Panel LED
 - P10 RGB "https://tokopedia.link/mrBXKrE6mAb"
 
+## Feature
+- wifi
+- show timestamp with sync to NTP
+- scroll right to left
+- scheduller every 5s 
+
 ### to do
 - if you use board esp32, use rtos for better
 
