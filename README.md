@@ -13,6 +13,9 @@
 - scroll right to left
 - scheduller every 5s 
 
+## medium
+- https://andriantriputra.medium.com/micro-controller-esp-led-matrix-p10-rgb-fcb21b576296
+
 ### to do
 - if you use board esp32, use rtos for better
 - make sure timestamp update for the firs time
