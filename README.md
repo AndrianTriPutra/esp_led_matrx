@@ -15,6 +15,7 @@
 
 ### to do
 - if you use board esp32, use rtos for better
+- make sure timestamp update for the firs time
 
 ### reference 
 - https://github.com/2dom/PxMatrix
